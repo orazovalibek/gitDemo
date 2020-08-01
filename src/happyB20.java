@@ -3,5 +3,7 @@ public class happyB20 {
 
         System.out.println("Cybertek B20 sudents always HAPPY");
 
+        System.out.println("Cuz we going to change our life");
+
     }
 }
