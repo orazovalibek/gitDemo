@@ -5,5 +5,7 @@ public class helloB20 {
 
         System.out.println("We are going to change our life");
 
+        System.out.println("hopefully everything will be a great");
+
     }
 }
